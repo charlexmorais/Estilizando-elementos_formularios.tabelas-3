@@ -1,0 +1,25 @@
+input{
+    border:solid 1px black;
+    padding: 10px;
+    padding-left:20px ;
+    padding-top: 10px;
+    padding-right:20px ;
+    padding-bottom:10px ;
+}
+input:nth-child(2){
+  background-color:#e0e0e0;
+
+
+}
+input:nth-child(3){
+    border: solid 1px black;
+    color: #a0a0a0;
+    font-weight: bold;
+    
+    
+ 
+}
+input:nth-child(4){
+    border:red solid 1px;
+
+}
